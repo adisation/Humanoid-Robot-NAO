@@ -6,6 +6,6 @@ To undestand its very fundamental functioning and application of machine learnin
 
   This repo contains:
   1. The documentation:Exploratory study on humaoid robot NAO for desdigning enhanced HMI(human machine interaction)
-  2. Code for controlling movement of robot.
+  2. Code for controlling movement of robot..
 
 
